@@ -1,0 +1,47 @@
+Mô hình 3 khối
+
+Bài 1:
+người dùng nhập input 
+Lương 1 ngày + số ngày làm + Tính lương
+-----------------------------------
+tạo giá trị cho 2 ô input và lấy giá trị
+tạo hàm
+dùng công thức lấy lương 1 ngày * số ngày làm
+--------------------------------------------
+in kết quả lương
+
+Bài 2:
+5 ô input từ số 1->5
+--------------------
+tạo hàm
+lấy giá trị 5 ô
+lấy 5 ô cộng lại chia 5 [(so_1 + so_2 + so_3 + so_4 +so_5)/5]
+-------------------
+in kết quá trung bình 5 số
+
+Bài 3:
+tạo ô input nhập tiền 
+---------------------
+lấy giá trị nhập * 23500
+---------------------
+in kết quả quy đổi tiền
+
+Bài 4:
+tạo input chiều dài, chiều rộng
+----------------------------
+lấy giá trị 
+dientich = dài * rộng
+chuvi = (dai + rong)*2
+-----------------------------
+in chuvi, dientich
+
+Bài 5:
+tạo input số
+------------
+lấy giá trị
+hàng đơn vị: so%10
+hàng chục: so/10
+hangdonvi+hangchuc=ketqua
+------------------
+in tong
+
